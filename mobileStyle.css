@@ -1,0 +1,21 @@
+@media(max-width:768px){
+    nav{
+        height: 168px;
+        display: flex;
+        flex-direction: column;
+        gap: 23px;
+
+        a{
+            font-size: 30px;
+        }
+    }
+
+    .logo i{
+        font-size: 40px;
+    }
+
+    .logo h1{
+        font-size: 32px;
+    }
+
+}
